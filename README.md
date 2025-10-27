@@ -7,7 +7,6 @@ How to use:
 1.Run the program
 2.Once started, a menu will appear with options (enter a number from 1 to 4):
 
------------
 Creating Task:
 Choose option 1.
 Enter a name for your task.
@@ -29,7 +28,6 @@ The task will be removed from the list.
 
 Exiting the program
 Option 4 exits the program.
-----------
 
 All tasks are saved in the tasks.json file.
 The program is fully terminal-based and uses a simple text interface.
